@@ -6,6 +6,6 @@ type T1 struct {
 }
 
 func (t T1) F() string {
-	return "T2.F"
+	return "T1.F"
 }
 
