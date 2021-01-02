@@ -1,3 +1,3 @@
-module github.com/itsunixiknowthis/vs1/v2
+module github.com/itsunixiknowthis/vs1/v3
 
 go 1.13
